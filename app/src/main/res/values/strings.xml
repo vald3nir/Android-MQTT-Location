@@ -1,4 +1,4 @@
 <resources>
     <string name="app_name">Android-Spy-Location</string>
-    <string name="title_activity_maps">Map</string>
+    <string name="title_activity_maps">My Agents</string>
 </resources>

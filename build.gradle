@@ -5,14 +5,14 @@ buildscript {
         buildToolsVersion = "30.0.3"
         minSdkVersion = 19
         targetSdkVersion = 30
-        kotlin_version = "1.5.0"
+        kotlin_version = "1.5.20"
     }
     repositories {
         google()
         mavenCentral()
     }
     dependencies {
-        classpath 'com.android.tools.build:gradle:4.2.1'
+        classpath 'com.android.tools.build:gradle:4.2.2'
         classpath "org.jetbrains.kotlin:kotlin-gradle-plugin:$kotlin_version"
     }
 }
