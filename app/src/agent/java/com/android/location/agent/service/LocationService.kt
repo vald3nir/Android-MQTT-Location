@@ -12,8 +12,6 @@ import com.vald3nir.mqtt.MqttController
 
 class LocationService : Service() {
 
-   // verificar se cai no ondestroi e colocar de volta a flag
-
     private val mqtt = MqttController()
 
     companion object {
